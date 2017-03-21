@@ -1,0 +1,20 @@
+.content{
+    width: 1200px;
+    margin:0 auto;
+    height:800px;
+    margin-top: 50px;
+}
+.pj{
+    width: 500px;
+    margin:0 auto;
+    border: 3px dashed #FF1878;
+    padding: 20px;
+}
+.btn{
+    width: 80px;
+    height: 40px;
+    background: #FA8F8E;
+    border: none;
+    margin-top: 20px;
+    margin-left: 60px;
+}

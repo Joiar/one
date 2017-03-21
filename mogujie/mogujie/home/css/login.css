@@ -1,0 +1,156 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.all{
+	width: 100%;
+	color: #333;
+}
+/*头部样式*/
+.top{
+	width: 100%;
+	height: 97px;
+}
+.logo{
+	width: 100%;
+	height: 57px;
+	padding:20px 0;
+	margin: 0 auto;
+}
+.loginn{
+	width: 1200px;
+	height: 57px;
+	margin: 0 auto;
+	background: url('../image/login/ll.png ') no-repeat;
+}
+
+/*中间部分*/
+.center{
+	width: 100%;
+	height: 600px;
+	background: url('../image/login/bg.png ') no-repeat;
+	overflow: hidden;
+}
+.banner-left{
+	width: 62.5%;
+    float: left;
+    display: inline;
+    height: 600px;
+    overflow: hidden;
+}
+.banner-right{
+	width: 394px;
+	height: 348px;
+    float: left;
+    display: inline;
+    padding: 0 0 30px 10px;
+    background-color: #ffeceb;
+    margin-top: 80px;
+    opacity: .9;
+}
+/*登录方式*/
+.banner-right2{
+	width: 394px;
+	height:54px;
+	overflow: hidden;
+	/*border: 1px solid red;*/
+}
+.banner-right-a{
+	height: 46px;
+	width: 46px;
+	background: url('../image/login/xx.png ') no-repeat;
+	cursor: pointer;
+	float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.banner-right-b{
+	height: 53px;
+	width: 197px;
+	float: left;
+	border-bottom: 1px solid #ccc;
+	overflow: hidden;
+}
+.banner-right-c{
+	height: 53px;
+	width: 197px;
+	overflow: hidden;
+	float: left;
+	border-bottom: 1px solid #ccc;
+}
+.pt{
+	color: #fe617a;
+	width: 119px;
+    height: 41px;
+    border-bottom: 2px solid #ff4066;
+}
+.banner-right-b a{
+	line-height: 42px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 34px;
+    text-decoration: none;
+}
+.wmm{
+	width: 119px;
+    height: 41px;
+}
+.banner-right-c a{
+	line-height: 42px;
+    text-align: center;
+    color: #333;
+    font-size: 14px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 34px;
+    text-decoration: none;
+}
+
+/*from表单*/
+.banner-form{
+	width: 356px;
+	height: 300px;
+	margin-top: 16px;
+	float: right;
+}
+.fo{
+	width: 300px;
+	height: 40px;
+	color: #333;
+	padding: 0 10px;
+	border: 1px solid #ccc;
+}
+.pd{
+	margin-top:10px;
+}
+.sub{
+	width: 322px;
+	margin-top:30px;
+	background: #ff5777;
+	color: #fff;
+}
+/*小图标*/
+.tb{
+	width: 160px;
+	height: 25px;
+	float: right;
+	margin-top:30px;
+	overflow: hidden;
+	/*border: 1px solid red;*/
+}
+.tb a{
+	text-decoration: none;
+}
+.qq,.wx,.wb{
+	margin-right: 20px;
+}
+.zh{
+	margin-top: 60px;
+}
+.zh a{
+	 color: #ff5777;
+}

@@ -1,0 +1,109 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.all{
+	width: 100%;
+	color: #333;
+}
+/*头部样式*/
+.top{
+	width: 100%;
+	height: 97px;
+}
+.logo{
+	width: 100%;
+	height: 57px;
+	padding:20px 0;
+	margin: 0 auto;
+}
+.loginn{
+	width: 1200px;
+	height: 57px;
+	margin: 0 auto;
+	background: url('../image/login/ll.png ') no-repeat;
+}
+
+/*中间部分*/
+.center{
+	width: 100%;
+	height: 600px;
+	background: url('../image/login/bg.png ') no-repeat;
+	overflow: hidden;
+}
+.banner-left{
+	width: 62.5%;
+    float: left;
+    display: inline;
+    height: 600px;
+    overflow: hidden;
+}
+.banner-right{
+	width: 394px;
+	height: 348px;
+    float: left;
+    display: inline;
+    padding: 0 0 30px 10px;
+    background-color: #ffeceb;
+    margin-top: 80px;
+    opacity: .9;
+}
+/*登录方式*/
+.banner-right2{
+	width: 394px;
+	height:54px;
+	overflow: hidden;
+	/*border: 1px solid red;*/
+}
+
+.banner-right-b{
+	height: 53px;
+	width: 197px;
+	float: left;
+	border-bottom: 1px solid #ccc;
+	overflow: hidden;
+}
+.banner-right-b h3{
+   margin-top: 20px;
+   /*margin-left: 10px;*/
+}
+.banner-right-c{
+	height: 53px;
+	width: 197px;
+	overflow: hidden;
+	float: left;
+	border-bottom: 1px solid #ccc;
+}
+
+
+/*from表单*/
+.banner-form{
+    width: 356px;
+    height: 300px;
+    margin-top: 16px;
+    float: right;
+}
+.fo{
+    width: 300px;
+    height: 40px;
+    color: #333;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+    border:none;
+}
+.pd{
+    margin-top:10px;
+}
+.sub{
+    width: 322px;
+    margin-top:30px;
+    background: #ff5777;
+    color: #fff;
+}
+.zh{
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.zh a{
+     color: #ff5777;
+}

@@ -1,0 +1,70 @@
+.BL-ALL{
+	width: 1200px;
+ 	height: 336px;
+ 	margin: 0 auto 20px;
+ 	/*background: red;*/
+ 	position: relative;
+ 	/*top: -113px;*/
+}
+
+.BL-LEFT{
+	width: 245px;
+ 	height: 336px;
+ 	float: left;
+	border-radius: 10px 0 0 0;
+	background: url('../image/YX1.jpg ') no-repeat;
+}
+
+.BL-MID{
+	width: 263px;
+ 	height: 334px;
+ 	float: left;
+ 	background: url('../image/YX2.png') no-repeat;
+ 	background-size: 265px 336px;
+ 	z-index: 2;
+ 	border:1px solid #e0e0e0;
+}
+
+.BL-KUAN{
+	width: 342px;
+	height: 166px;
+	/*background:red;*/
+	float: left;
+	background: url('../image/YX3.jpg') no-repeat;
+	background-size: 334px 168px;
+	border:1px solid #e0e0e0;
+}
+
+.BL-SMALL{
+	width: 113px;
+	height: 111px;
+	float: left;
+	background:url('../image/pinpai/pp5.jpg') no-repeat;
+	background-size: 112px 112px;
+	border:1px solid #e0e0e0;
+}
+
+.BL-BLOCK{
+	width: 170px;
+	height: 166px;
+	background: url('../image/YX5.jpg') 30px 67px no-repeat;
+    background-size: 100px 100px;
+    border: 1px solid #e0e0e0;
+    float: left;
+}
+
+.BL-MORE{
+	width:690px;
+ 	height: 336px;
+ 	float: left;
+}
+
+.BL-FOUR{
+	width:344px;
+	height: 336px;
+	float: left;
+	/*background: red;*/
+}
+.BL-YSZ{
+	background-size: 334px 168px;
+}
